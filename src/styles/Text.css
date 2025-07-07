@@ -1,0 +1,14 @@
+.sale-container{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.sale-container a{
+    color: wheat;
+    border-bottom: 1px solid wheat; 
+    padding: 5px;
+}
