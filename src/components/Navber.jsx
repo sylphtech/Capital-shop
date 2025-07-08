@@ -10,7 +10,7 @@ export default function Navber({ cartCount = 0 }) {
   return (
     <div className="-Navber-container">
       <div className="navber-logo">
-        <img src="/images/logo2.png" alt="Logo" className="h-12" />
+        <img src="images/logo2.png" alt="Logo" className="h-12" />
       </div>
 
       <div className="navber-links">
