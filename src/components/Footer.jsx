@@ -8,22 +8,22 @@ const Footer = () => {
     <>
       <div className="info-section">
         <div className="info-card">
-          <img src="public/images/services1.svg" alt="" />
+          <img src="/images/services1.svg" alt="" />
           <h3>Fast & Free Delivery</h3>
           <p>Free delivery on all orders</p>
         </div>
         <div className="info-card">
-          <img src="public/images/services2.svg" alt="" />
+          <img src="/images/services2.svg" alt="" />
           <h3>Secure Payment</h3>
           <p>Free delivery on all orders</p>
         </div>
         <div className="info-card">
-          <img src="public/images/services3.svg" alt="" />
+          <img src="/images/services3.svg" alt="" />
           <h3>Money Back Guarantee</h3>
           <p>Free delivery on all orders</p>
         </div>
         <div className="info-card">
-          <img src="public/images/services4.svg" alt="" />
+          <img src="/images/services4.svg" alt="" />
           <h3>Online Support</h3>
           <p>Free delivery on all orders</p>
         </div>
@@ -56,7 +56,7 @@ const Footer = () => {
 
       <div className="footer-links-section">
         <div className="brand-section">
-            <img src="public/images/logo2.png" alt="Brand Logo" />
+            <img src="/images/logo2.png" alt="Brand Logo" />
         </div>
         <div className="links-column">
           <h3>Shop Men</h3>

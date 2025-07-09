@@ -4,7 +4,7 @@
     align-items: center;
     height: 70vh;
     overflow: hidden;
-    background-image: url("images/ladyblue.png");
+    background-image: url("/images/ladyblue.png");
     background-position: left;
     background-repeat: no-repeat;
     background-size: cover;
